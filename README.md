@@ -11,12 +11,12 @@
 
 - [Working of NFS Server](#working-of-nfs-server)
   1. [Naming Server (NM)](#1-naming-server-nm)
-    - [Handle Client Thread](#handle-client-thread)
-    - [Handle Storage Server Thread](#handle-storage-server-thread)
+      - [Handle Client Thread](#handle-client-thread)
+      - [Handle Storage Server Thread](#handle-storage-server-thread)
   2. [Implemented Functions](#2-implemented-functions)
-    - [Reading, Writing, and Retrieving Information about Files](#reading-writing-and-retrieving-information-about-files)
-    - [Creating and Deleting Files and Folders](#creating-and-deleting-files-and-folders)
-    - [Copying Files/Directories Between Storage Servers](#copying-filesdirectories-between-storage-servers)
+      - [Reading, Writing, and Retrieving Information about Files](#reading-writing-and-retrieving-information-about-files)
+      - [Creating and Deleting Files and Folders](#creating-and-deleting-files-and-folders)
+      - [Copying Files/Directories Between Storage Servers](#copying-filesdirectories-between-storage-servers)
 
 - [Data Structures Used](#data-structures-used)
   1. [Tries Data Structures](#1-tries-data-structures)
